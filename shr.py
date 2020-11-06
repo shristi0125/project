@@ -28,7 +28,7 @@ while True:
     if (("show" in p) or ("tell" in p) or ("open" in p)) and (("fortune" in p) or ("lucky" in p)):
         os.system("fortune")
         
-    elif (("show                                                       " in p) or ("start" in p)) and ("train" in p):
+    elif (("show" in p) or ("start" in p)) and ("train" in p):
         os.system("sl")
     elif (("start" in p) or ("show" in p)) and ("calendar" in p):
         os.system("zenity --calendar")
