@@ -1,3 +1,9 @@
  SPEECH RECOGNITION USING PYTHON
+ 
+OBJECTIVE:
 
-https://www.canva.com/design/DAEbDj5lXWM/GKRk9rrxv3aTEm0ufK_fAg/view?utm_content=DAEbDj5lXWM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+Developed a personal assistant which will help us  to automate the tasks that we repeatedly perform .
+
+OPERATING SYSTEM:
+
+Linux
